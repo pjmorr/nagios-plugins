@@ -16,7 +16,7 @@ pyhs2==0.6.0
 pytest==2.8.5
 python-krbV==1.0.90
 python-snappy==0.5.0
-PyYAML==3.11
+PyYAML==5.1
 requests==2.8.1
 scales==1.0.7
 six==1.10.0
